@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: ${github-app-client-id}
+            clientSecret: ${github-app-client-secret}
+#          google:
+#            clientId: ${google-app-client-id}
+#            clientSecret: ${google-app-client-id}
