@@ -4,7 +4,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+.DS_Store
+src/.DS_Store
 ### STS ###
 .apt_generated
 .classpath
